@@ -22,7 +22,7 @@ public class Sample01_PrimitiveType {
 		// Int (-2,147,483,648~2,147,483,647) signed 4Byte
 		int IsInt = 2147483647;
 		// IsLong signed 8Byte
-		long IsLong = 1000L;
+		long IsLong = 1000L; // long 자료형은 숫자 뒤에 L이나 l을 꼭 붙여야함.
 
 		// 실수형
 		// float
