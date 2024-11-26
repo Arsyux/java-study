@@ -61,8 +61,8 @@ public class Sample01_ConditionalStatements {
 		System.out.println("계절: " + season);
 		
 		
-		// (JDK13)향상된 switch문 사용법3
-		// JDK13 이전에는 yield가 아니라 break를 사용하여 값을 반환할 수 있음.
+		// (JDK13이상) 향상된 switch문 사용법3
+		// (JDK12) JDK13이전에는 yield가 아니라 break를 사용하여 값을 반환함.
 		in = 6;
 		season = switch(in) {
 			case 12, 1, 2: yield "겨울";
