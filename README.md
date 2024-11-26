@@ -30,11 +30,11 @@
 <br />
 
 ## [6장 반복문](./example/src/main/java/chap06_Loop)
-- [배열](./example/src/main/java/chap06_Loop/Sample01_Loop.java)
+- [반복문](./example/src/main/java/chap06_Loop/Sample01_Loop.java)
 <br />
 
 ## [7장 조건문](./example/src/main/java/chap07_ConditionalStatements)
-- [배열](./example/src/main/java/chap07_ConditionalStatements/Sample01_ConditionalStatements.java)
+- [조건문](./example/src/main/java/chap07_ConditionalStatements/Sample01_ConditionalStatements.java)
 <br />
 
 
