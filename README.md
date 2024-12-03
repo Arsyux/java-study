@@ -1,7 +1,4 @@
-# java-study
-
-현재 private에서 public으로 이사중입니다.
-<hr/>
+# Java Study
 
 ## [1장 Hello, World!](./example/src/main/java/chap01_HelloWorld)
 - [Hello, World!](./example/src/main/java/chap01_HelloWorld/Sample01_HelloWorld.java)
