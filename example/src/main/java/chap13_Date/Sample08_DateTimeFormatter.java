@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-public class Sample09_DateTimeFormatter {
+public class Sample08_DateTimeFormatter {
 
 	public static void main(String[] args) {
 		// 아래 3개를 주로 사용함
